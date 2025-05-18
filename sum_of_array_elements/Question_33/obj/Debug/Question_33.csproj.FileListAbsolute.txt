@@ -1,0 +1,14 @@
+C:\Users\97798\Desktop\C# Lab\Question_33\Question_33\bin\Debug\Question_33.exe.config
+C:\Users\97798\Desktop\C# Lab\Question_33\Question_33\bin\Debug\Question_33.exe
+C:\Users\97798\Desktop\C# Lab\Question_33\Question_33\bin\Debug\Question_33.pdb
+C:\Users\97798\Desktop\C# Lab\Question_33\Question_33\obj\Debug\Question_33.csproj.AssemblyReference.cache
+C:\Users\97798\Desktop\C# Lab\Question_33\Question_33\obj\Debug\Question_33.csproj.CoreCompileInputs.cache
+C:\Users\97798\Desktop\C# Lab\Question_33\Question_33\obj\Debug\Question_33.exe
+C:\Users\97798\Desktop\C# Lab\Question_33\Question_33\obj\Debug\Question_33.pdb
+C:\Users\97798\Documents\C# Lab\Question_33\Question_33\bin\Debug\Question_33.exe.config
+C:\Users\97798\Documents\C# Lab\Question_33\Question_33\bin\Debug\Question_33.exe
+C:\Users\97798\Documents\C# Lab\Question_33\Question_33\bin\Debug\Question_33.pdb
+C:\Users\97798\Documents\C# Lab\Question_33\Question_33\obj\Debug\Question_33.csproj.AssemblyReference.cache
+C:\Users\97798\Documents\C# Lab\Question_33\Question_33\obj\Debug\Question_33.csproj.CoreCompileInputs.cache
+C:\Users\97798\Documents\C# Lab\Question_33\Question_33\obj\Debug\Question_33.exe
+C:\Users\97798\Documents\C# Lab\Question_33\Question_33\obj\Debug\Question_33.pdb
