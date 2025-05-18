@@ -1,0 +1,7 @@
+C:\Users\97798\Desktop\C# Lab\Question_20\Question_20\bin\Debug\Question_20.exe.config
+C:\Users\97798\Desktop\C# Lab\Question_20\Question_20\bin\Debug\Question_20.exe
+C:\Users\97798\Desktop\C# Lab\Question_20\Question_20\bin\Debug\Question_20.pdb
+C:\Users\97798\Desktop\C# Lab\Question_20\Question_20\obj\Debug\Question_20.csproj.AssemblyReference.cache
+C:\Users\97798\Desktop\C# Lab\Question_20\Question_20\obj\Debug\Question_20.csproj.CoreCompileInputs.cache
+C:\Users\97798\Desktop\C# Lab\Question_20\Question_20\obj\Debug\Question_20.exe
+C:\Users\97798\Desktop\C# Lab\Question_20\Question_20\obj\Debug\Question_20.pdb
